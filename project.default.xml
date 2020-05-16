@@ -1,8 +1,9 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="GithubDefaultAccount">
-        <option name="defaultAccountId" value="3aecd286-84d2-485e-be0d-1328850e2487" />
+      <component name="ProjectViewState">
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showLibraryContents" value="true" />
       </component>
     </defaultProject>
   </component>
